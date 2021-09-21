@@ -749,6 +749,8 @@ Either individually, as a class, or get into groups and watch the documentary mo
 
 1. Based on the movie's tone and rhetoric - why do you think there was an anti-Microsoft tone at the time of the movies making (~2001)? (You may need to research [Microsoft anti-trust case](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp. "Anti-Trust") ).
 
+Hello
+
 1. When Bill Gates wrote his 1976 *"Open Letter to Hobbyists"*, was he justified in his complaint?  Why or why not?
 
 1. According to Eric Raymond in the move, the adoption curve of Linux and the adoption curve the internet do what ~32:20?
